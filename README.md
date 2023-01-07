@@ -1,5 +1,5 @@
-# Fiszki
-Aplikacja umieszczona na hostingu oferująca nauke słowek
+# Nauka
+Aplikacja umieszczona na hostingu oferująca zapisywanie notatek
 
 EXPRESS
 PUG
