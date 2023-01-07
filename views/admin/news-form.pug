@@ -12,11 +12,11 @@ block content
      
        form(method='post') 
          p
-           label PL
+           label Notatka
            input(type='text' name='title' value=body.title || '' )
      
          p 
-           label ANG
+           label Data
            textarea(name='description')=body.description || ''
          p
            input(type='submit' value='Zapisz')
