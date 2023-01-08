@@ -20,9 +20,9 @@
 
 .line {
     border: 2px solid black;
-    background: white;
+    background: blue;
     text-decoration: none;
-    color: red;
+    color: black;
     width: 30vw;
     hight: 50px;
     
