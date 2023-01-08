@@ -21,7 +21,7 @@ router.get('/', (req, res) => {
 });
 
 router.get('/news/add', (req, res) => {
-    res.render('admin/news-form', { title: 'Dodaj Fiszke', body: {}, errors: {} });
+    res.render('admin/news-form', { title: 'Dodaj Notatke', body: {}, errors: {} });
 });
 
 router.post('/news/add', (req, res) => {
