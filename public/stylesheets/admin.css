@@ -20,11 +20,11 @@
 
 .line {
     border: 2px solid black;
-    background: rgb(145, 158, 216);
+    background: white;
     text-decoration: none;
-    color: black;
+    color: red;
     width: 30vw;
-    hight: 500px;
+    hight: 50px;
     
   
 }
