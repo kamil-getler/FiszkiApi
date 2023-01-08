@@ -93,10 +93,3 @@ a {
     transition: width 150ms ease-in-out;
 }
 
-.fifth:hover {
-    color: #fff;
-}
-
-.fifth:hover:after {
-    width: 110%;
-}
