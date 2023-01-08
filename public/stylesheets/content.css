@@ -6,6 +6,15 @@
     width: 80%;
     background-image: url("../img/map-of-the-world-2401458_1920.jpg");
     background-repeat:repeat;
+    
+     background-size: cover;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 32px;
 }
 
 .content__img {
